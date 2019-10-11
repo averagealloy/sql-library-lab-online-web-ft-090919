@@ -30,4 +30,4 @@ CREATE TABLE characters (
   id INTEGER PRIMARY KEY
 
 );
- CREAT
+ CREATE tab
