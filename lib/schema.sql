@@ -23,7 +23,7 @@ subgenre_id INTEGER
    id INTEGER PRIMARY KEY
  );
 CREATE TABLE characters (
-  name TEXT
+  name TEXT,
   species
   motto
   author_id
