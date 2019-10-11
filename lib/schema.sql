@@ -27,7 +27,7 @@ CREATE TABLE characters (
   species
   motto
   author_id
-  
+  id
 
 
 );
