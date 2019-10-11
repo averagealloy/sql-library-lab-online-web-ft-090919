@@ -20,7 +20,6 @@ subgenre_id INTEGER
    title TEXT,
    year INTEGER,
    series_id INTEGER,
-   id INTEGER PRIMARY KEY 
+   id INTEGER PRIMARY KEY
 
-
- );
+);
