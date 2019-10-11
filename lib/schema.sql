@@ -23,6 +23,6 @@ subgenre_id INTEGER
    id INTEGER PRIMARY KEY
  );
 CREATE TABLE characters (
-  name
+  name T
 
 );
