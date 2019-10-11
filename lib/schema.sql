@@ -10,7 +10,7 @@ subgenre_id INTEGER
    id INTEGER PRIMARY KEY
 
  );
- CREATE TABLE authors  (
+ CREATE TABLE authors (
    name TEXT,
    id INTEGER PRIMARY KEY
 
