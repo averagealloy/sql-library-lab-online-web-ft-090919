@@ -1,6 +1,7 @@
 CREATE TABLE series (
 id,
 title,
-author_id, subgenre_id
+author_id,
+subgenre_id
 
 );
