@@ -26,5 +26,6 @@ CREATE TABLE characters (
   name
   Species
   motto
+  
 
 );
