@@ -7,6 +7,7 @@ subgenre_id INTEGER
 );
  CREATE TABLE subgenre (
    name TEXT,
-   id INTEGER PRIMARY KEY
+   id INTEGER PRIMARY KEY,
+   
 
  );
