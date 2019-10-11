@@ -26,7 +26,7 @@ CREATE TABLE characters (
   name TEXT,
   species TEXT,
   motto TEXT,
-  author_id INTERGER PRIMARY KEY 
+  author_id INTERG PRIMARY KEY 
   id
 
 
