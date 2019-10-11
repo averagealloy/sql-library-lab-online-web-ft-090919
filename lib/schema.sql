@@ -26,6 +26,7 @@ CREATE TABLE characters (
   name
   species
   motto
+  auth
 
 
 );
