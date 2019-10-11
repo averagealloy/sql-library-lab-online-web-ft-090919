@@ -21,5 +21,4 @@ subgenre_id INTEGER
    year INTEGER,
    series_id INTEGER,
    id INTEGER PRIMARY KEY
-
 );
