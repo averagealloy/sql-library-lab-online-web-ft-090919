@@ -10,7 +10,7 @@ subgenre_id INTEGER
    id INTEGER PRIMARY KEY
 
  );
- CREATE TABLE s (
+ CREATE TABLE au (
    name TEXT,
    id INTEGER PRIMARY KEY
 
