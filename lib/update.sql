@@ -1,1 +1,1 @@
-UPDATE Charac
+UPDATE Characters
