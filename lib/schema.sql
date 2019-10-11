@@ -7,6 +7,6 @@ subgenre_id INTEGER
 );
  CREATE TABLE subgenre (
    name TEXT,
-   id INTEGER PRI
+   id INTEGER PRIMARY KE
 
  );
