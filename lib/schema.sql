@@ -18,6 +18,6 @@ subgenre_id INTEGER
 
  CREATE TABLE books (
    title text,
-   year inte
+   year 
 
  );
