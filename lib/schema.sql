@@ -17,6 +17,6 @@ subgenre_id INTEGER
  );
 
  CREATE TABLE books (
-t itle text
+   title text
 
  );
