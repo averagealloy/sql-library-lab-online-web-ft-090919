@@ -6,6 +6,6 @@ subgenre_id INTEGER
 
 );
  CREATE TABLE subgenre (
-   name 
+   name
 
  );
