@@ -1,1 +1,1 @@
-UPDATE characters SEt 
+UPDATE characters SET 
