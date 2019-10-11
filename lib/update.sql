@@ -1,1 +1,2 @@
-UPDATE characters SET species = "Martian" WHERE species = "half-giant";
+UPDATE C
+haracters SET species = "Martian" WHERE species = "half-giant";
