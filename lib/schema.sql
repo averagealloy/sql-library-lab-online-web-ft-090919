@@ -5,4 +5,4 @@ author_id INTEGER ,
 subgenre_id INTEGER
 
 );
- CREATE TABLE s
+ CREATE TABLE subgenre 
