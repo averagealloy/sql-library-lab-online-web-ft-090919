@@ -16,4 +16,4 @@ subgenre_id INTEGER
 
  );
 
- CREATE TABLE book
+ CREATE TABLE books 
