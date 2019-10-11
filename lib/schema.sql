@@ -25,6 +25,6 @@ subgenre_id INTEGER
 CREATE TABLE characters (
   name
   Species
-  
+  moy
 
 );
