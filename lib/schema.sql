@@ -30,4 +30,4 @@ CREATE TABLE characters (
   id INTEGER PRIMARY KEY
 
 );
- CREATE TABLE character
+ CREATE TABLE character_
