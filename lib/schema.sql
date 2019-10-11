@@ -24,6 +24,6 @@ subgenre_id INTEGER
  );
 CREATE TABLE characters (
   name
-  SP
+  SPE
 
 );
