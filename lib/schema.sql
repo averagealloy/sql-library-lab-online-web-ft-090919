@@ -20,5 +20,6 @@ subgenre_id INTEGER
    title TEXT,
    year INTEGER,
    series_id INTEGER
+   
 
  );
