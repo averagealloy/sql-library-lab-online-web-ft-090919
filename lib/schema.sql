@@ -19,6 +19,6 @@ subgenre_id INTEGER
  CREATE TABLE books (
    title TEXT,
    year INTEGER,
-   series_i
+   series_id in
 
  );
