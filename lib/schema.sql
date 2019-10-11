@@ -30,4 +30,7 @@ CREATE TABLE characters (
   id INTEGER PRIMARY KEY
 
 );
- CREATE TABLE character_books 
+ CREATE TABLE character_books (
+
+   
+ )
