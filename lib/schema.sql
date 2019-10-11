@@ -22,3 +22,4 @@ subgenre_id INTEGER
    series_id INTEGER,
    id INTEGER PRIMARY KEY
  );
+CREATE 
