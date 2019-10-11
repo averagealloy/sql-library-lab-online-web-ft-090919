@@ -1,7 +1,7 @@
 CREATE TABLE series (
 id,
 title,
-author_id,
-subgenre_id INTE
+author_id I,
+subgenre_id INTEGER
 
 );
