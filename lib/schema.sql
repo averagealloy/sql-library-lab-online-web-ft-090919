@@ -24,6 +24,7 @@ subgenre_id INTEGER
  );
 CREATE TABLE characters (
   name
-  Speci
+  Species
+  
 
 );
