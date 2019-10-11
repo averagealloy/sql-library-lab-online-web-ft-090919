@@ -10,3 +10,8 @@ subgenre_id INTEGER
    id INTEGER PRIMARY KEY
 
  );
+ CREATE TABLE subgenreS (
+   name TEXT,
+   id INTEGER PRIMARY KEY
+
+ );
