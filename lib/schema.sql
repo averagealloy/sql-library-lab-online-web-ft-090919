@@ -26,7 +26,7 @@ CREATE TABLE characters (
   name TEXT,
   species TEXT,
   motto TEXT,
-  author_id PRIMARY
+  author_id PRIMARY KEY
   id
 
 
